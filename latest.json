@@ -1,6 +1,6 @@
 {
-  "version": "0.10.9",
-  "download_url": "https://github.com/kangcyemnet-hash/SKMagic-Hub-Releases/releases/download/v0.10.9/SKMagic_Performance_Hub_v0.10.9.zip",
-  "sha256": "c36ae91cf8fd7b6256e584593d00134116b4e41de705e82f1ef006f9af0f9d5f",
-  "notes": "나무엑스 GA 전환을 상담·구독 기준으로 분리하고 회원가입 Sub KPI, 자동 성과 진단, 일별 차트 툴팁 및 새 ZIP 우선 실행 기능을 추가했습니다."
+  "version": "0.10.10",
+  "download_url": "https://github.com/kangcyemnet-hash/SKMagic-Hub-Releases/releases/download/V0.10.10/SKMagic_Performance_Hub_v0.10.10.zip",
+  "sha256": "ae9391574a57a211fd2d3f2281e891de559cd2075f1b39d472ef7df684c2700d",
+  "notes": "매직몰과 나무엑스의 매체별·캠페인·광고그룹 성과표에서 이전 비용, 비용 증감, GA 전환 증감 열을 제거해 화면을 간소화했습니다."
 }
