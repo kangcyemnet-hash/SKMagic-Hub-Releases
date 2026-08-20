@@ -1,6 +1,6 @@
 {
-  "version": "0.10.10",
-  "download_url": "https://github.com/kangcyemnet-hash/SKMagic-Hub-Releases/releases/download/V0.10.10/SKMagic_Performance_Hub_v0.10.10.zip",
-  "sha256": "ae9391574a57a211fd2d3f2281e891de559cd2075f1b39d472ef7df684c2700d",
-  "notes": "매직몰과 나무엑스의 매체별·캠페인·광고그룹 성과표에서 이전 비용, 비용 증감, GA 전환 증감 열을 제거해 화면을 간소화했습니다."
+  "version": "0.10.12",
+  "download_url": "https://github.com/kangcyemnet-hash/SKMagic-Hub-Releases/releases/download/V0.10.12/SKMagic_Performance_Hub_v0.10.12.zip",
+  "sha256": "9f1681b478c137d1730c34af8190fb96af304cab28394e38949ac37b37faf215",
+  "notes": "GA 전환 이벤트 3종을 정확히 분리하고, 260605 GA 데이터 분류 기준의 149개 캠페인 매칭표를 공식 기준으로 반영했습니다."
 }
