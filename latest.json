@@ -1,6 +1,6 @@
 {
-  "version": "0.10.15",
-  "download_url": "https://github.com/kangcyemnet-hash/SKMagic-Hub-Releases/releases/latest/download/SKMagic_Performance_Hub_v0.10.15.zip",
-  "sha256": "728e204f3fddc2642813f2cc9a46b22a395bef2d115c7d6490b3a25e9d368046",
-  "notes": "나무엑스 GA 전환을 모든 화면과 다운로드에서 상담(Main)+구독(Main)으로 강제 통일했습니다. GA 회원가입은 별도 Sub KPI로만 유지되며 월 목표, 페이싱, 일별·매체별·캠페인별 성과 및 GA CPA에서 완전히 제외됩니다."
+  "version": "0.10.18",
+  "download_url": "https://github.com/kangcyemnet-hash/SKMagic-Hub-Releases/releases/download/v0.10.18/SKMagic_Performance_Hub_v0.10.18.zip",
+  "sha256": "5a61902cdbdc4d0d84d9f24477c379aeefc637ae78e68f39d84b09bb78005542",
+  "notes": "나무엑스 리포트 자동화를 매직몰처럼 하루·기간 처리로 확장했습니다. 통합 매체, GA 이벤트, GA 사용자/세션 파일은 CSV·TSV·Excel을 지원하며 여러 날짜를 Daily_RD와 Daily_RD(유입)에 날짜별로 생성합니다. 상담+구독만 메인 GA 전환으로 집계하고 회원가입은 별도 Sub KPI로 유지합니다. 매직몰 GA 전환 이벤트명도 확정된 3개 이벤트만 사용합니다."
 }
