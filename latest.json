@@ -1,5 +1,6 @@
 {
-  "version": "0.7.0",
-  "download_url": "https://github.com/kangcyemnet-hash/SKMagic-Hub-Releases/releases/download/v0.7.0/SKMagic_Performance_Hub_v0.7.0.zip",
-  "notes": "Python 없이 실행되는 설치형 첫 배포 버전입니다. 사용자 데이터 보존과 업데이트 확인 기능이 추가되었습니다."
+  "version": "0.8.0",
+  "download_url": "https://github.com/kangcyemnet-hash/SKMagic-Hub-Releases/releases/download/v0.8.0/SKMagic_Performance_Hub_v0.8.0.zip",
+  "sha256": "d720d53d1f9ff36c3c85ad09aee314ea36222284600bcc8e42fd33462f57e2de",
+  "notes": "자동 업데이트 실행기와 로그인 없는 로컬 모드가 추가되었습니다. 앞으로는 SKMagic_Hub.exe로 실행하세요."
 }
