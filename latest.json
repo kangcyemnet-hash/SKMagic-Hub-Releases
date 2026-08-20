@@ -1,6 +1,6 @@
 {
-  "version": "0.10.12",
-  "download_url": "https://github.com/kangcyemnet-hash/SKMagic-Hub-Releases/releases/download/V0.10.12/SKMagic_Performance_Hub_v0.10.12.zip",
-  "sha256": "9f1681b478c137d1730c34af8190fb96af304cab28394e38949ac37b37faf215",
-  "notes": "GA 전환 이벤트 3종을 정확히 분리하고, 260605 GA 데이터 분류 기준의 149개 캠페인 매칭표를 공식 기준으로 반영했습니다."
+  "version": "0.10.14",
+  "download_url": "https://github.com/kangcyemnet-hash/SKMagic-Hub-Releases/releases/latest/download/SKMagic_Performance_Hub_v0.10.14.zip",
+  "sha256": "7a8bdd914feb0deda33c8dcfbe5b3af5078774773f2f0a76ee3c18201f88ba8d",
+  "notes": "매직몰 리포트 자동화에 하루/기간 선택을 추가했습니다. 기간 내 RAW 날짜를 일자별로 매칭하고 Daily_raw 및 Daily_raw(유입)을 하나의 Excel로 생성하며, 원본이 없는 날짜는 검수 항목으로 표시합니다."
 }
